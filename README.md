@@ -4,10 +4,8 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Crafting+elegance+through+code.;Building+digital+experiences+with+precision.;Future+Software+Architect+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Crafting+elegance+through+code.;Building+digital+experiences+with+precision.;Future+Software+Architect+✨" alt="Typing SVG" />
 </h3>
-
----
 
 <div align="center">
 
@@ -94,23 +92,11 @@ efficient, and scalable systems.
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 ## ✨ PHILOSOPHY
 
 <div align="center">
 
-> *“Perfection is not attainable,  
-> but if we chase perfection,  
-> we can catch excellence.”*
+> *“Perfection is not attainable, but if we chase perfection, we can catch excellence.”*
 
 </div>
 
