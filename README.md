@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">
+  Arthur 👑
+</h1>
 
-<!--
-**Thuuui/Thuuui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Crafting+elegance+through+code.;Building+digital+experiences+with+precision.;Future+Software+Architect+%E2%9C%A8" alt="Typing SVG" />
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20my%20universe&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn"/>
+
+</div>
+
+---
+
+## ✨ TECHNOLOGICAL EXPERTISE
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=239120"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+
+</div>
+
+---
+
+## 🧠 ABOUT ME
+
+```txt
+An enthusiast of technology, software engineering,
+and sophisticated digital solutions.
+
+Focused on transforming ideas into elegant,
+efficient, and scalable systems.
