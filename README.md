@@ -3,10 +3,8 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Crafting+elegance+through+code.;Building+digital+experiences+with+precision.;Future+Software+Architect+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Crafting+elegance+through+code.;Building+digital+experiences+with+precision.;Future+Software+Architect+✨" alt="Typing SVG" />
 </h3>
-
----
 
 <div align="center">
 
@@ -39,84 +37,23 @@ and sophisticated digital solutions.
 
 Focused on transforming ideas into elegant,
 efficient, and scalable systems.
-
-- 🎓 Student & technology enthusiast
-- 🚀 Constantly exploring modern development
-- 📚 Currently mastering JavaScript, Python & C++
-- 🎯 Passionate about clean architecture and design
-- ⚡ Turning caffeine into scalable applications
-
----
-
-## 🌐 CONNECT WITH ME
-
+🎓 Student & technology enthusiast
+🚀 Constantly exploring modern development
+📚 Currently mastering JavaScript, Python & C++
+🎯 Passionate about clean architecture and design
+⚡ Turning caffeine into scalable applications
+🌐 CONNECT WITH ME
+<div align="center"> <a href="https://github.com/SEUUSUARIO"> <img src="https://skillicons.dev/icons?i=github" height="55"/> </a> </div>
+🛠 LANGUAGES & TOOLS
+<div align="center"> <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,py,vscode,git,github" /> </div>
+📊 GITHUB ANALYTICS
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/> </div>
+🏆 ACHIEVEMENTS
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&no-frame=true&row=1&column=6"/> </div>
+✨ PHILOSOPHY
 <div align="center">
 
-<a href="https://github.com/SEUUSUARIO">
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
+“Perfection is not attainable, but if we chase perfection, we can catch excellence.”
 
 </div>
-
----
-
-## 🛠 LANGUAGES & TOOLS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,py,vscode,git,github" />
-
-</div>
-
----
-
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## ✨ PHILOSOPHY
-
-<div align="center">
-
-> *“Perfection is not attainable,  
-> but if we chase perfection,  
-> we can catch excellence.”*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Profile+Views&color=9370DB&style=for-the-badge"/>
-
-</div>
-```
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Profile+Views&color=9370DB&style=for-the-badge"/> </div> ```
