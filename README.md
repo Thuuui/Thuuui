@@ -118,7 +118,7 @@ efficient, and scalable systems.
 
 <div align="center">
 
-### ✨ “Code. Sleep. Conquer. Repeat.” ✨
+### ✨ “Perfection is not attainable, but if we chase perfection, we can catch excellence.” - Arthur The Great ✨
 
 <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Profile+Views&color=9370DB&style=for-the-badge"/>
 
