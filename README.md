@@ -1,4 +1,4 @@
-```html
+html
 <h1 align="center">
   Arthur 👑
 </h1>
@@ -123,4 +123,3 @@ efficient, and scalable systems.
 <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Profile+Views&color=9370DB&style=for-the-badge"/>
 
 </div>
-```
